@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Type4() {
+function Type4({ question }) {
   return (
     <div className='type1'>
         <div className='ques-no'>Question 4</div>
